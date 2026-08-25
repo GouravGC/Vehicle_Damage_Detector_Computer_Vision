@@ -115,9 +115,58 @@ st.markdown(
 
 st.subheader("Project Links")
 
-st.info(
-    "GitHub, LinkedIn and portfolio links can be added here."
-)
+link_col1, link_col2, link_col3 = st.columns(3)
+
+
+with link_col1:
+
+    st.markdown(
+        """
+        ### 💻 GitHub
+
+        Source code, project architecture,
+        configuration and implementation.
+        """
+    )
+
+    st.link_button(
+        "View GitHub Profile",
+        "https://github.com/GouravGC",
+    )
+
+
+with link_col2:
+
+    st.markdown(
+        """
+        ### 📦 Project Repository
+
+        Explore the complete Vehicle Damage
+        Detection project and its source code.
+        """
+    )
+
+    st.link_button(
+        "View Repository",
+        "https://github.com/GouravGC/Vehicle_Damage_Detector_Computer_Vision",
+    )
+
+
+with link_col3:
+
+    st.markdown(
+        """
+        ### 🔗 LinkedIn
+
+        Connect with me and explore my
+        professional profile.
+        """
+    )
+
+    st.link_button(
+        "View LinkedIn",
+        "https://www.linkedin.com/in/gourav-chhatwani-9a301134a/",
+    )
 
 
 # ============================================================
