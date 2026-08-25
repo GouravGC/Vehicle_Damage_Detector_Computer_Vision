@@ -113,7 +113,74 @@ st.markdown(
 # PROJECT LINKS
 # ============================================================
 
+# ============================================================
+# PROJECT LINKS
+# ============================================================
+
 st.subheader("Project Links")
+
+st.markdown(
+    """
+    <style>
+
+    /* ========================================================
+       PROJECT LINKS
+       ======================================================== */
+
+    .project-links-card {
+        background: #121c25;
+        border: 1px solid #263541;
+        border-radius: 16px;
+        padding: 24px;
+        margin-top: 10px;
+    }
+
+    .project-link-title {
+        color: #f8fafc !important;
+        font-size: 1.05rem;
+        font-weight: 700;
+        margin-bottom: 6px;
+    }
+
+    .project-link-description {
+        color: #b8c6d3 !important;
+        font-size: 0.9rem;
+        line-height: 1.6;
+        margin-bottom: 16px;
+    }
+
+    /* Streamlit link buttons */
+
+    .project-links-card a {
+        background-color: #1a2834 !important;
+        color: #e8f0f7 !important;
+
+        border: 1px solid #344655 !important;
+        border-radius: 10px !important;
+
+        text-decoration: none !important;
+
+        font-weight: 600 !important;
+    }
+
+    .project-links-card a:hover {
+        background-color: #223544 !important;
+        color: #ffffff !important;
+
+        border-color: #4a6173 !important;
+    }
+
+    .project-links-card a p,
+    .project-links-card a span,
+    .project-links-card a div {
+        color: #e8f0f7 !important;
+    }
+
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 
 link_col1, link_col2, link_col3 = st.columns(3)
 
@@ -122,11 +189,20 @@ with link_col1:
 
     st.markdown(
         """
-        ### 💻 GitHub
+        <div class="project-links-card">
 
-        Source code, project architecture,
-        configuration and implementation.
-        """
+            <div class="project-link-title">
+                💻 GitHub Profile
+            </div>
+
+            <div class="project-link-description">
+                Explore the complete source code, projects,
+                and development work.
+            </div>
+
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
 
     st.link_button(
@@ -139,11 +215,20 @@ with link_col2:
 
     st.markdown(
         """
-        ### 📦 Project Repository
+        <div class="project-links-card">
 
-        Explore the complete Vehicle Damage
-        Detection project and its source code.
-        """
+            <div class="project-link-title">
+                📦 Project Repository
+            </div>
+
+            <div class="project-link-description">
+                View the source code and architecture of
+                this vehicle damage detection project.
+            </div>
+
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
 
     st.link_button(
@@ -156,25 +241,23 @@ with link_col3:
 
     st.markdown(
         """
-        ### 🔗 LinkedIn
+        <div class="project-links-card">
 
-        Connect with me and explore my
-        professional profile.
-        """
+            <div class="project-link-title">
+                🔵 LinkedIn
+            </div>
+
+            <div class="project-link-description">
+                Connect with me and explore my professional
+                background and experience.
+            </div>
+
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
 
     st.link_button(
         "View LinkedIn",
         "https://www.linkedin.com/in/gourav-chhatwani-9a301134a/",
     )
-
-
-# ============================================================
-# FOOTER
-# ============================================================
-
-st.divider()
-
-st.caption(
-    "Built as an end-to-end Computer Vision portfolio project."
-)
