@@ -1,0 +1,12 @@
+path: /content/vehicle_damage_detection/data/carddd
+train: train/images
+val: val/images
+test: test/images
+nc: 6
+names:
+- dent
+- scratch
+- crack
+- glass shatter
+- lamp broken
+- tire flat

@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Training outputs
+runs/
+wandb/
+logs/
+checkpoints/
+
+# Generated inference outputs
+inference/test_predictions/
+inference/test_annotated/
+
+# Generated artifacts
+artifacts/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+.kilo/
+.continue/
+.blackboxrules
+
+AGENT_TEST.md
+

@@ -1,0 +1,3002 @@
+[
+    {
+        "path": "configs/vehicle_damage_colab.yaml",
+        "size_mb": 0.0
+    },
+    {
+        "path": "metrics/test_metrics.json",
+        "size_mb": 0.001
+    },
+    {
+        "path": "model/vehicle_damage_yolo11n_best.pt",
+        "size_mb": 5.203
+    },
+    {
+        "path": "model/vehicle_damage_yolo11n_best.onnx",
+        "size_mb": 10.117
+    },
+    {
+        "path": "inference/test_predictions/002481.jpg",
+        "size_mb": 0.241
+    },
+    {
+        "path": "inference/test_predictions/000950.jpg",
+        "size_mb": 0.271
+    },
+    {
+        "path": "inference/test_predictions/000191.jpg",
+        "size_mb": 0.277
+    },
+    {
+        "path": "inference/test_predictions/001368.jpg",
+        "size_mb": 0.19
+    },
+    {
+        "path": "inference/test_predictions/002252.jpg",
+        "size_mb": 0.219
+    },
+    {
+        "path": "inference/test_predictions/000033.jpg",
+        "size_mb": 0.242
+    },
+    {
+        "path": "inference/test_predictions/001874.jpg",
+        "size_mb": 0.267
+    },
+    {
+        "path": "inference/test_predictions/001660.jpg",
+        "size_mb": 0.194
+    },
+    {
+        "path": "inference/test_predictions/000914.jpg",
+        "size_mb": 0.243
+    },
+    {
+        "path": "inference/test_predictions/001799.jpg",
+        "size_mb": 0.348
+    },
+    {
+        "path": "inference/test_predictions/001459.jpg",
+        "size_mb": 0.582
+    },
+    {
+        "path": "inference/test_predictions/000659.jpg",
+        "size_mb": 0.363
+    },
+    {
+        "path": "inference/test_predictions/003743.jpg",
+        "size_mb": 0.316
+    },
+    {
+        "path": "inference/test_predictions/003424.jpg",
+        "size_mb": 0.224
+    },
+    {
+        "path": "inference/test_predictions/000185.jpg",
+        "size_mb": 0.217
+    },
+    {
+        "path": "inference/test_predictions/003226.jpg",
+        "size_mb": 0.292
+    },
+    {
+        "path": "inference/test_predictions/002898.jpg",
+        "size_mb": 0.242
+    },
+    {
+        "path": "inference/test_predictions/001926.jpg",
+        "size_mb": 0.316
+    },
+    {
+        "path": "inference/test_predictions/000702.jpg",
+        "size_mb": 0.165
+    },
+    {
+        "path": "inference/test_predictions/002014.jpg",
+        "size_mb": 0.186
+    },
+    {
+        "path": "inference/test_predictions/003671.jpg",
+        "size_mb": 0.203
+    },
+    {
+        "path": "inference/test_predictions/001272.jpg",
+        "size_mb": 0.155
+    },
+    {
+        "path": "inference/test_predictions/001843.jpg",
+        "size_mb": 0.214
+    },
+    {
+        "path": "inference/test_predictions/001282.jpg",
+        "size_mb": 0.219
+    },
+    {
+        "path": "inference/test_predictions/003039.jpg",
+        "size_mb": 0.249
+    },
+    {
+        "path": "inference/test_predictions/002664.jpg",
+        "size_mb": 0.334
+    },
+    {
+        "path": "inference/test_predictions/002879.jpg",
+        "size_mb": 0.173
+    },
+    {
+        "path": "inference/test_predictions/000106.jpg",
+        "size_mb": 0.239
+    },
+    {
+        "path": "inference/test_predictions/002612.jpg",
+        "size_mb": 0.256
+    },
+    {
+        "path": "inference/test_predictions/002694.jpg",
+        "size_mb": 0.179
+    },
+    {
+        "path": "inference/test_predictions/001562.jpg",
+        "size_mb": 0.172
+    },
+    {
+        "path": "inference/test_predictions/002776.jpg",
+        "size_mb": 0.211
+    },
+    {
+        "path": "inference/test_predictions/000625.jpg",
+        "size_mb": 0.147
+    },
+    {
+        "path": "inference/test_predictions/000570.jpg",
+        "size_mb": 0.235
+    },
+    {
+        "path": "inference/test_predictions/003418.jpg",
+        "size_mb": 0.167
+    },
+    {
+        "path": "inference/test_predictions/003720.jpg",
+        "size_mb": 0.315
+    },
+    {
+        "path": "inference/test_predictions/000415.jpg",
+        "size_mb": 0.23
+    },
+    {
+        "path": "inference/test_predictions/000730.jpg",
+        "size_mb": 0.26
+    },
+    {
+        "path": "inference/test_predictions/000253.jpg",
+        "size_mb": 0.391
+    },
+    {
+        "path": "inference/test_predictions/001488.jpg",
+        "size_mb": 0.163
+    },
+    {
+        "path": "inference/test_predictions/000204.jpg",
+        "size_mb": 0.162
+    },
+    {
+        "path": "inference/test_predictions/003124.jpg",
+        "size_mb": 0.256
+    },
+    {
+        "path": "inference/test_predictions/003626.jpg",
+        "size_mb": 0.107
+    },
+    {
+        "path": "inference/test_predictions/002833.jpg",
+        "size_mb": 0.231
+    },
+    {
+        "path": "inference/test_predictions/002072.jpg",
+        "size_mb": 0.144
+    },
+    {
+        "path": "inference/test_predictions/000224.jpg",
+        "size_mb": 0.263
+    },
+    {
+        "path": "inference/test_predictions/002461.jpg",
+        "size_mb": 0.146
+    },
+    {
+        "path": "inference/test_predictions/001196.jpg",
+        "size_mb": 0.365
+    },
+    {
+        "path": "inference/test_predictions/003289.jpg",
+        "size_mb": 0.23
+    },
+    {
+        "path": "inference/test_predictions/002006.jpg",
+        "size_mb": 0.299
+    },
+    {
+        "path": "inference/test_predictions/002858.jpg",
+        "size_mb": 0.156
+    },
+    {
+        "path": "inference/test_predictions/002169.jpg",
+        "size_mb": 0.283
+    },
+    {
+        "path": "inference/test_predictions/001240.jpg",
+        "size_mb": 0.185
+    },
+    {
+        "path": "inference/test_predictions/002358.jpg",
+        "size_mb": 0.233
+    },
+    {
+        "path": "inference/test_predictions/000565.jpg",
+        "size_mb": 0.269
+    },
+    {
+        "path": "inference/test_predictions/002498.jpg",
+        "size_mb": 0.158
+    },
+    {
+        "path": "inference/test_predictions/003872.jpg",
+        "size_mb": 0.157
+    },
+    {
+        "path": "inference/test_predictions/002597.jpg",
+        "size_mb": 0.156
+    },
+    {
+        "path": "inference/test_predictions/000466.jpg",
+        "size_mb": 0.27
+    },
+    {
+        "path": "inference/test_predictions/001483.jpg",
+        "size_mb": 0.164
+    },
+    {
+        "path": "inference/test_predictions/002508.jpg",
+        "size_mb": 0.344
+    },
+    {
+        "path": "inference/test_predictions/001130.jpg",
+        "size_mb": 0.298
+    },
+    {
+        "path": "inference/test_predictions/003782.jpg",
+        "size_mb": 0.261
+    },
+    {
+        "path": "inference/test_predictions/001307.jpg",
+        "size_mb": 0.181
+    },
+    {
+        "path": "inference/test_predictions/003367.jpg",
+        "size_mb": 0.17
+    },
+    {
+        "path": "inference/test_predictions/002849.jpg",
+        "size_mb": 0.275
+    },
+    {
+        "path": "inference/test_predictions/001314.jpg",
+        "size_mb": 0.209
+    },
+    {
+        "path": "inference/test_predictions/000023.jpg",
+        "size_mb": 0.148
+    },
+    {
+        "path": "inference/test_predictions/003905.jpg",
+        "size_mb": 0.306
+    },
+    {
+        "path": "inference/test_predictions/003959.jpg",
+        "size_mb": 0.4
+    },
+    {
+        "path": "inference/test_predictions/002448.jpg",
+        "size_mb": 0.185
+    },
+    {
+        "path": "inference/test_predictions/002728.jpg",
+        "size_mb": 0.205
+    },
+    {
+        "path": "inference/test_predictions/001800.jpg",
+        "size_mb": 0.281
+    },
+    {
+        "path": "inference/test_predictions/001367.jpg",
+        "size_mb": 0.169
+    },
+    {
+        "path": "inference/test_predictions/002380.jpg",
+        "size_mb": 0.244
+    },
+    {
+        "path": "inference/test_predictions/002045.jpg",
+        "size_mb": 0.149
+    },
+    {
+        "path": "inference/test_predictions/001837.jpg",
+        "size_mb": 0.152
+    },
+    {
+        "path": "inference/test_predictions/000550.jpg",
+        "size_mb": 0.187
+    },
+    {
+        "path": "inference/test_predictions/002356.jpg",
+        "size_mb": 0.336
+    },
+    {
+        "path": "inference/test_predictions/002467.jpg",
+        "size_mb": 0.186
+    },
+    {
+        "path": "inference/test_predictions/000883.jpg",
+        "size_mb": 0.215
+    },
+    {
+        "path": "inference/test_predictions/003573.jpg",
+        "size_mb": 0.223
+    },
+    {
+        "path": "inference/test_predictions/002056.jpg",
+        "size_mb": 0.123
+    },
+    {
+        "path": "inference/test_predictions/003492.jpg",
+        "size_mb": 0.155
+    },
+    {
+        "path": "inference/test_predictions/001720.jpg",
+        "size_mb": 0.134
+    },
+    {
+        "path": "inference/test_predictions/000969.jpg",
+        "size_mb": 0.224
+    },
+    {
+        "path": "inference/test_predictions/000926.jpg",
+        "size_mb": 0.213
+    },
+    {
+        "path": "inference/test_predictions/003541.jpg",
+        "size_mb": 0.271
+    },
+    {
+        "path": "inference/test_predictions/000042.jpg",
+        "size_mb": 0.216
+    },
+    {
+        "path": "inference/test_predictions/002567.jpg",
+        "size_mb": 0.34
+    },
+    {
+        "path": "inference/test_predictions/002590.jpg",
+        "size_mb": 0.234
+    },
+    {
+        "path": "inference/test_predictions/002409.jpg",
+        "size_mb": 0.157
+    },
+    {
+        "path": "inference/test_predictions/001809.jpg",
+        "size_mb": 0.196
+    },
+    {
+        "path": "inference/test_predictions/002514.jpg",
+        "size_mb": 0.254
+    },
+    {
+        "path": "inference/test_predictions/002138.jpg",
+        "size_mb": 0.176
+    },
+    {
+        "path": "inference/test_predictions/001039.jpg",
+        "size_mb": 0.176
+    },
+    {
+        "path": "inference/test_predictions/001267.jpg",
+        "size_mb": 0.387
+    },
+    {
+        "path": "inference/test_predictions/003812.jpg",
+        "size_mb": 0.243
+    },
+    {
+        "path": "inference/test_predictions/003316.jpg",
+        "size_mb": 0.274
+    },
+    {
+        "path": "inference/test_predictions/000514.jpg",
+        "size_mb": 0.277
+    },
+    {
+        "path": "inference/test_predictions/000452.jpg",
+        "size_mb": 0.188
+    },
+    {
+        "path": "inference/test_predictions/000090.jpg",
+        "size_mb": 0.259
+    },
+    {
+        "path": "inference/test_predictions/002887.jpg",
+        "size_mb": 0.131
+    },
+    {
+        "path": "inference/test_predictions/003879.jpg",
+        "size_mb": 0.198
+    },
+    {
+        "path": "inference/test_predictions/000288.jpg",
+        "size_mb": 0.251
+    },
+    {
+        "path": "inference/test_predictions/001180.jpg",
+        "size_mb": 0.187
+    },
+    {
+        "path": "inference/test_predictions/000875.jpg",
+        "size_mb": 0.205
+    },
+    {
+        "path": "inference/test_predictions/000869.jpg",
+        "size_mb": 0.323
+    },
+    {
+        "path": "inference/test_predictions/003977.jpg",
+        "size_mb": 0.386
+    },
+    {
+        "path": "inference/test_predictions/001493.jpg",
+        "size_mb": 0.212
+    },
+    {
+        "path": "inference/test_predictions/002752.jpg",
+        "size_mb": 0.189
+    },
+    {
+        "path": "inference/test_predictions/001967.jpg",
+        "size_mb": 0.127
+    },
+    {
+        "path": "inference/test_predictions/003407.jpg",
+        "size_mb": 0.165
+    },
+    {
+        "path": "inference/test_predictions/001944.jpg",
+        "size_mb": 0.172
+    },
+    {
+        "path": "inference/test_predictions/002624.jpg",
+        "size_mb": 0.285
+    },
+    {
+        "path": "inference/test_predictions/003082.jpg",
+        "size_mb": 0.216
+    },
+    {
+        "path": "inference/test_predictions/001437.jpg",
+        "size_mb": 0.135
+    },
+    {
+        "path": "inference/test_predictions/000856.jpg",
+        "size_mb": 0.233
+    },
+    {
+        "path": "inference/test_predictions/003244.jpg",
+        "size_mb": 0.239
+    },
+    {
+        "path": "inference/test_predictions/001820.jpg",
+        "size_mb": 0.236
+    },
+    {
+        "path": "inference/test_predictions/003887.jpg",
+        "size_mb": 0.334
+    },
+    {
+        "path": "inference/test_predictions/001043.jpg",
+        "size_mb": 0.285
+    },
+    {
+        "path": "inference/test_predictions/001746.jpg",
+        "size_mb": 0.209
+    },
+    {
+        "path": "inference/test_predictions/001617.jpg",
+        "size_mb": 0.251
+    },
+    {
+        "path": "inference/test_predictions/003948.jpg",
+        "size_mb": 0.295
+    },
+    {
+        "path": "inference/test_predictions/003586.jpg",
+        "size_mb": 0.331
+    },
+    {
+        "path": "inference/test_predictions/001256.jpg",
+        "size_mb": 0.291
+    },
+    {
+        "path": "inference/test_predictions/002407.jpg",
+        "size_mb": 0.307
+    },
+    {
+        "path": "inference/test_predictions/001582.jpg",
+        "size_mb": 0.32
+    },
+    {
+        "path": "inference/test_predictions/001071.jpg",
+        "size_mb": 0.259
+    },
+    {
+        "path": "inference/test_predictions/000693.jpg",
+        "size_mb": 0.19
+    },
+    {
+        "path": "inference/test_predictions/000611.jpg",
+        "size_mb": 0.171
+    },
+    {
+        "path": "inference/test_predictions/003554.jpg",
+        "size_mb": 0.343
+    },
+    {
+        "path": "inference/test_predictions/003354.jpg",
+        "size_mb": 0.221
+    },
+    {
+        "path": "inference/test_predictions/000468.jpg",
+        "size_mb": 0.175
+    },
+    {
+        "path": "inference/test_predictions/002125.jpg",
+        "size_mb": 0.28
+    },
+    {
+        "path": "inference/test_predictions/003296.jpg",
+        "size_mb": 0.203
+    },
+    {
+        "path": "inference/test_predictions/003804.jpg",
+        "size_mb": 0.305
+    },
+    {
+        "path": "inference/test_predictions/002262.jpg",
+        "size_mb": 0.174
+    },
+    {
+        "path": "inference/test_predictions/002534.jpg",
+        "size_mb": 0.094
+    },
+    {
+        "path": "inference/test_predictions/002986.jpg",
+        "size_mb": 0.191
+    },
+    {
+        "path": "inference/test_predictions/001979.jpg",
+        "size_mb": 0.193
+    },
+    {
+        "path": "inference/test_predictions/001633.jpg",
+        "size_mb": 0.176
+    },
+    {
+        "path": "inference/test_predictions/003533.jpg",
+        "size_mb": 0.245
+    },
+    {
+        "path": "inference/test_predictions/003789.jpg",
+        "size_mb": 0.17
+    },
+    {
+        "path": "inference/test_predictions/000387.jpg",
+        "size_mb": 0.263
+    },
+    {
+        "path": "inference/test_predictions/000749.jpg",
+        "size_mb": 0.205
+    },
+    {
+        "path": "inference/test_predictions/002953.jpg",
+        "size_mb": 0.225
+    },
+    {
+        "path": "inference/test_predictions/002189.jpg",
+        "size_mb": 0.174
+    },
+    {
+        "path": "inference/test_predictions/001701.jpg",
+        "size_mb": 0.251
+    },
+    {
+        "path": "inference/test_predictions/003175.jpg",
+        "size_mb": 0.334
+    },
+    {
+        "path": "inference/test_predictions/000128.jpg",
+        "size_mb": 0.313
+    },
+    {
+        "path": "inference/test_predictions/003099.jpg",
+        "size_mb": 0.265
+    },
+    {
+        "path": "inference/test_predictions/001396.jpg",
+        "size_mb": 0.26
+    },
+    {
+        "path": "inference/test_predictions/001709.jpg",
+        "size_mb": 0.155
+    },
+    {
+        "path": "inference/test_predictions/002931.jpg",
+        "size_mb": 0.243
+    },
+    {
+        "path": "inference/test_predictions/001962.jpg",
+        "size_mb": 0.124
+    },
+    {
+        "path": "inference/test_predictions/002163.jpg",
+        "size_mb": 0.175
+    },
+    {
+        "path": "inference/test_predictions/001394.jpg",
+        "size_mb": 0.241
+    },
+    {
+        "path": "inference/test_predictions/001993.jpg",
+        "size_mb": 0.146
+    },
+    {
+        "path": "inference/test_predictions/000214.jpg",
+        "size_mb": 0.174
+    },
+    {
+        "path": "inference/test_predictions/002151.jpg",
+        "size_mb": 0.172
+    },
+    {
+        "path": "inference/test_predictions/001939.jpg",
+        "size_mb": 0.24
+    },
+    {
+        "path": "inference/test_predictions/000670.jpg",
+        "size_mb": 0.27
+    },
+    {
+        "path": "inference/test_predictions/000488.jpg",
+        "size_mb": 0.123
+    },
+    {
+        "path": "inference/test_predictions/002707.jpg",
+        "size_mb": 0.21
+    },
+    {
+        "path": "inference/test_predictions/003656.jpg",
+        "size_mb": 0.179
+    },
+    {
+        "path": "inference/test_predictions/000687.jpg",
+        "size_mb": 0.227
+    },
+    {
+        "path": "inference/test_predictions/003464.jpg",
+        "size_mb": 0.154
+    },
+    {
+        "path": "inference/test_predictions/001558.jpg",
+        "size_mb": 0.197
+    },
+    {
+        "path": "inference/test_predictions/003071.jpg",
+        "size_mb": 0.35
+    },
+    {
+        "path": "inference/test_predictions/002475.jpg",
+        "size_mb": 0.141
+    },
+    {
+        "path": "inference/test_predictions/000809.jpg",
+        "size_mb": 0.235
+    },
+    {
+        "path": "inference/test_predictions/003703.jpg",
+        "size_mb": 0.401
+    },
+    {
+        "path": "inference/test_predictions/003823.jpg",
+        "size_mb": 0.2
+    },
+    {
+        "path": "inference/test_predictions/003992.jpg",
+        "size_mb": 0.283
+    },
+    {
+        "path": "inference/test_predictions/001665.jpg",
+        "size_mb": 0.311
+    },
+    {
+        "path": "inference/test_predictions/000541.jpg",
+        "size_mb": 0.386
+    },
+    {
+        "path": "inference/test_predictions/002240.jpg",
+        "size_mb": 0.245
+    },
+    {
+        "path": "inference/test_predictions/002140.jpg",
+        "size_mb": 0.187
+    },
+    {
+        "path": "inference/test_predictions/001098.jpg",
+        "size_mb": 0.227
+    },
+    {
+        "path": "inference/test_predictions/003561.jpg",
+        "size_mb": 0.227
+    },
+    {
+        "path": "inference/test_predictions/002267.jpg",
+        "size_mb": 0.178
+    },
+    {
+        "path": "inference/test_predictions/001594.jpg",
+        "size_mb": 0.241
+    },
+    {
+        "path": "inference/test_predictions/003201.jpg",
+        "size_mb": 0.333
+    },
+    {
+        "path": "inference/test_predictions/001879.jpg",
+        "size_mb": 0.204
+    },
+    {
+        "path": "inference/test_predictions/002766.jpg",
+        "size_mb": 0.177
+    },
+    {
+        "path": "inference/test_predictions/003327.jpg",
+        "size_mb": 0.29
+    },
+    {
+        "path": "inference/test_predictions/000796.jpg",
+        "size_mb": 0.123
+    },
+    {
+        "path": "inference/test_predictions/000404.jpg",
+        "size_mb": 0.308
+    },
+    {
+        "path": "inference/test_predictions/002801.jpg",
+        "size_mb": 0.181
+    },
+    {
+        "path": "inference/test_predictions/002213.jpg",
+        "size_mb": 0.241
+    },
+    {
+        "path": "inference/test_predictions/000400.jpg",
+        "size_mb": 0.143
+    },
+    {
+        "path": "inference/test_predictions/003233.jpg",
+        "size_mb": 0.152
+    },
+    {
+        "path": "inference/test_predictions/002628.jpg",
+        "size_mb": 0.139
+    },
+    {
+        "path": "inference/test_predictions/003434.jpg",
+        "size_mb": 0.231
+    },
+    {
+        "path": "inference/test_predictions/002299.jpg",
+        "size_mb": 0.118
+    },
+    {
+        "path": "inference/test_predictions/000433.jpg",
+        "size_mb": 0.354
+    },
+    {
+        "path": "inference/test_predictions/002235.jpg",
+        "size_mb": 0.245
+    },
+    {
+        "path": "inference/test_predictions/001327.jpg",
+        "size_mb": 0.215
+    },
+    {
+        "path": "inference/test_predictions/002502.jpg",
+        "size_mb": 0.176
+    },
+    {
+        "path": "inference/test_predictions/001641.jpg",
+        "size_mb": 0.118
+    },
+    {
+        "path": "inference/test_predictions/002294.jpg",
+        "size_mb": 0.188
+    },
+    {
+        "path": "inference/test_predictions/001610.jpg",
+        "size_mb": 0.19
+    },
+    {
+        "path": "inference/test_predictions/001372.jpg",
+        "size_mb": 0.206
+    },
+    {
+        "path": "inference/test_predictions/002914.jpg",
+        "size_mb": 0.274
+    },
+    {
+        "path": "inference/test_predictions/001358.jpg",
+        "size_mb": 0.23
+    },
+    {
+        "path": "inference/test_predictions/002789.jpg",
+        "size_mb": 0.149
+    },
+    {
+        "path": "inference/test_predictions/003187.jpg",
+        "size_mb": 0.143
+    },
+    {
+        "path": "inference/test_predictions/000848.jpg",
+        "size_mb": 0.197
+    },
+    {
+        "path": "inference/test_predictions/002961.jpg",
+        "size_mb": 0.219
+    },
+    {
+        "path": "inference/test_predictions/003414.jpg",
+        "size_mb": 0.2
+    },
+    {
+        "path": "inference/test_predictions/003695.jpg",
+        "size_mb": 0.201
+    },
+    {
+        "path": "inference/test_predictions/001024.jpg",
+        "size_mb": 0.212
+    },
+    {
+        "path": "inference/test_predictions/000353.jpg",
+        "size_mb": 0.225
+    },
+    {
+        "path": "inference/test_predictions/001409.jpg",
+        "size_mb": 0.222
+    },
+    {
+        "path": "inference/test_predictions/001506.jpg",
+        "size_mb": 0.183
+    },
+    {
+        "path": "inference/test_predictions/002439.jpg",
+        "size_mb": 0.241
+    },
+    {
+        "path": "inference/test_predictions/002090.jpg",
+        "size_mb": 0.143
+    },
+    {
+        "path": "inference/test_predictions/003166.jpg",
+        "size_mb": 0.326
+    },
+    {
+        "path": "inference/test_predictions/000513.jpg",
+        "size_mb": 0.345
+    },
+    {
+        "path": "inference/test_predictions/002035.jpg",
+        "size_mb": 0.214
+    },
+    {
+        "path": "inference/test_predictions/001885.jpg",
+        "size_mb": 0.278
+    },
+    {
+        "path": "inference/test_predictions/000310.jpg",
+        "size_mb": 0.26
+    },
+    {
+        "path": "inference/test_predictions/001627.jpg",
+        "size_mb": 0.22
+    },
+    {
+        "path": "inference/test_predictions/003109.jpg",
+        "size_mb": 0.134
+    },
+    {
+        "path": "inference/test_predictions/000996.jpg",
+        "size_mb": 0.251
+    },
+    {
+        "path": "inference/test_predictions/002270.jpg",
+        "size_mb": 0.233
+    },
+    {
+        "path": "inference/test_predictions/002716.jpg",
+        "size_mb": 0.141
+    },
+    {
+        "path": "inference/test_predictions/001524.jpg",
+        "size_mb": 0.094
+    },
+    {
+        "path": "inference/test_predictions/003062.jpg",
+        "size_mb": 0.306
+    },
+    {
+        "path": "inference/test_predictions/000822.jpg",
+        "size_mb": 0.338
+    },
+    {
+        "path": "inference/test_predictions/003649.jpg",
+        "size_mb": 0.204
+    },
+    {
+        "path": "inference/test_predictions/002062.jpg",
+        "size_mb": 0.187
+    },
+    {
+        "path": "inference/test_predictions/002330.jpg",
+        "size_mb": 0.268
+    },
+    {
+        "path": "inference/test_predictions/001900.jpg",
+        "size_mb": 0.202
+    },
+    {
+        "path": "inference/test_predictions/000834.jpg",
+        "size_mb": 0.194
+    },
+    {
+        "path": "inference/test_predictions/001402.jpg",
+        "size_mb": 0.193
+    },
+    {
+        "path": "inference/test_predictions/002385.jpg",
+        "size_mb": 0.236
+    },
+    {
+        "path": "inference/test_predictions/000698.jpg",
+        "size_mb": 0.256
+    },
+    {
+        "path": "inference/test_predictions/003338.jpg",
+        "size_mb": 0.221
+    },
+    {
+        "path": "inference/test_predictions/002741.jpg",
+        "size_mb": 0.127
+    },
+    {
+        "path": "inference/test_predictions/003734.jpg",
+        "size_mb": 0.211
+    },
+    {
+        "path": "inference/test_predictions/003156.jpg",
+        "size_mb": 0.202
+    },
+    {
+        "path": "inference/test_predictions/002810.jpg",
+        "size_mb": 0.143
+    },
+    {
+        "path": "inference/test_predictions/000340.jpg",
+        "size_mb": 0.239
+    },
+    {
+        "path": "inference/test_predictions/000165.jpg",
+        "size_mb": 0.31
+    },
+    {
+        "path": "inference/test_predictions/000044.jpg",
+        "size_mb": 0.256
+    },
+    {
+        "path": "inference/test_predictions/003956.jpg",
+        "size_mb": 0.134
+    },
+    {
+        "path": "inference/test_predictions/000233.jpg",
+        "size_mb": 0.133
+    },
+    {
+        "path": "inference/test_predictions/002803.jpg",
+        "size_mb": 0.19
+    },
+    {
+        "path": "inference/test_predictions/000330.jpg",
+        "size_mb": 0.3
+    },
+    {
+        "path": "inference/test_predictions/000040.jpg",
+        "size_mb": 0.171
+    },
+    {
+        "path": "inference/test_predictions/000320.jpg",
+        "size_mb": 0.226
+    },
+    {
+        "path": "inference/test_predictions/001502.jpg",
+        "size_mb": 0.204
+    },
+    {
+        "path": "inference/test_predictions/000015.jpg",
+        "size_mb": 0.092
+    },
+    {
+        "path": "inference/test_predictions/002307.jpg",
+        "size_mb": 0.285
+    },
+    {
+        "path": "inference/test_predictions/000293.jpg",
+        "size_mb": 0.141
+    },
+    {
+        "path": "inference/test_predictions/000424.jpg",
+        "size_mb": 0.109
+    },
+    {
+        "path": "inference/test_predictions/003472.jpg",
+        "size_mb": 0.224
+    },
+    {
+        "path": "inference/test_predictions/002814.jpg",
+        "size_mb": 0.272
+    },
+    {
+        "path": "inference/test_predictions/003516.jpg",
+        "size_mb": 0.213
+    },
+    {
+        "path": "inference/test_predictions/001168.jpg",
+        "size_mb": 0.22
+    },
+    {
+        "path": "inference/test_predictions/003246.jpg",
+        "size_mb": 0.201
+    },
+    {
+        "path": "inference/test_predictions/003683.jpg",
+        "size_mb": 0.225
+    },
+    {
+        "path": "inference/test_predictions/002275.jpg",
+        "size_mb": 0.346
+    },
+    {
+        "path": "inference/test_predictions/001917.jpg",
+        "size_mb": 0.213
+    },
+    {
+        "path": "inference/test_predictions/000988.jpg",
+        "size_mb": 0.252
+    },
+    {
+        "path": "inference/test_predictions/000811.jpg",
+        "size_mb": 0.205
+    },
+    {
+        "path": "inference/test_predictions/002314.jpg",
+        "size_mb": 0.252
+    },
+    {
+        "path": "inference/test_predictions/003829.jpg",
+        "size_mb": 0.305
+    },
+    {
+        "path": "inference/test_predictions/003301.jpg",
+        "size_mb": 0.397
+    },
+    {
+        "path": "inference/test_predictions/000886.jpg",
+        "size_mb": 0.177
+    },
+    {
+        "path": "inference/test_predictions/001169.jpg",
+        "size_mb": 0.234
+    },
+    {
+        "path": "inference/test_predictions/003993.jpg",
+        "size_mb": 0.251
+    },
+    {
+        "path": "inference/test_predictions/002552.jpg",
+        "size_mb": 0.162
+    },
+    {
+        "path": "inference/test_predictions/002825.jpg",
+        "size_mb": 0.17
+    },
+    {
+        "path": "inference/test_predictions/001058.jpg",
+        "size_mb": 0.26
+    },
+    {
+        "path": "inference/test_predictions/003793.jpg",
+        "size_mb": 0.428
+    },
+    {
+        "path": "inference/test_predictions/000520.jpg",
+        "size_mb": 0.152
+    },
+    {
+        "path": "inference/test_predictions/000787.jpg",
+        "size_mb": 0.161
+    },
+    {
+        "path": "inference/test_predictions/001424.jpg",
+        "size_mb": 0.132
+    },
+    {
+        "path": "inference/test_predictions/001587.jpg",
+        "size_mb": 0.262
+    },
+    {
+        "path": "inference/test_predictions/003542.jpg",
+        "size_mb": 0.2
+    },
+    {
+        "path": "inference/test_predictions/000297.jpg",
+        "size_mb": 0.183
+    },
+    {
+        "path": "inference/test_predictions/001899.jpg",
+        "size_mb": 0.17
+    },
+    {
+        "path": "inference/test_predictions/003140.jpg",
+        "size_mb": 0.335
+    },
+    {
+        "path": "inference/test_predictions/000696.jpg",
+        "size_mb": 0.22
+    },
+    {
+        "path": "inference/test_predictions/002194.jpg",
+        "size_mb": 0.17
+    },
+    {
+        "path": "inference/test_predictions/001671.jpg",
+        "size_mb": 0.213
+    },
+    {
+        "path": "inference/test_predictions/003612.jpg",
+        "size_mb": 0.2
+    },
+    {
+        "path": "inference/test_predictions/000648.jpg",
+        "size_mb": 0.31
+    },
+    {
+        "path": "inference/test_predictions/001536.jpg",
+        "size_mb": 0.166
+    },
+    {
+        "path": "inference/test_predictions/001751.jpg",
+        "size_mb": 0.135
+    },
+    {
+        "path": "inference/test_predictions/002326.jpg",
+        "size_mb": 0.206
+    },
+    {
+        "path": "inference/test_predictions/001910.jpg",
+        "size_mb": 0.261
+    },
+    {
+        "path": "inference/test_predictions/002545.jpg",
+        "size_mb": 0.24
+    },
+    {
+        "path": "inference/test_predictions/000481.jpg",
+        "size_mb": 0.119
+    },
+    {
+        "path": "inference/test_predictions/001263.jpg",
+        "size_mb": 0.172
+    },
+    {
+        "path": "inference/test_predictions/000778.jpg",
+        "size_mb": 0.185
+    },
+    {
+        "path": "inference/test_predictions/000012.jpg",
+        "size_mb": 0.328
+    },
+    {
+        "path": "inference/test_predictions/001078.jpg",
+        "size_mb": 0.215
+    },
+    {
+        "path": "inference/test_predictions/003935.jpg",
+        "size_mb": 0.114
+    },
+    {
+        "path": "inference/test_predictions/000348.jpg",
+        "size_mb": 0.185
+    },
+    {
+        "path": "inference/test_predictions/002922.jpg",
+        "size_mb": 0.201
+    },
+    {
+        "path": "inference/test_predictions/001259.jpg",
+        "size_mb": 0.256
+    },
+    {
+        "path": "inference/test_predictions/003392.jpg",
+        "size_mb": 0.233
+    },
+    {
+        "path": "inference/test_predictions/001016.jpg",
+        "size_mb": 0.285
+    },
+    {
+        "path": "inference/test_predictions/003291.jpg",
+        "size_mb": 0.251
+    },
+    {
+        "path": "inference/test_predictions/003908.jpg",
+        "size_mb": 0.246
+    },
+    {
+        "path": "inference/test_predictions/003768.jpg",
+        "size_mb": 0.326
+    },
+    {
+        "path": "inference/test_predictions/003831.jpg",
+        "size_mb": 0.243
+    },
+    {
+        "path": "inference/test_predictions/000889.jpg",
+        "size_mb": 0.204
+    },
+    {
+        "path": "inference/test_predictions/001122.jpg",
+        "size_mb": 0.213
+    },
+    {
+        "path": "inference/test_predictions/000720.jpg",
+        "size_mb": 0.225
+    },
+    {
+        "path": "inference/test_predictions/000175.jpg",
+        "size_mb": 0.349
+    },
+    {
+        "path": "inference/test_predictions/002601.jpg",
+        "size_mb": 0.288
+    },
+    {
+        "path": "inference/test_predictions/003087.jpg",
+        "size_mb": 0.176
+    },
+    {
+        "path": "inference/test_predictions/003115.jpg",
+        "size_mb": 0.365
+    },
+    {
+        "path": "inference/test_predictions/000766.jpg",
+        "size_mb": 0.218
+    },
+    {
+        "path": "inference/test_predictions/002865.jpg",
+        "size_mb": 0.137
+    },
+    {
+        "path": "inference/test_predictions/003925.jpg",
+        "size_mb": 0.334
+    },
+    {
+        "path": "inference/test_predictions/003441.jpg",
+        "size_mb": 0.256
+    },
+    {
+        "path": "inference/test_predictions/001637.jpg",
+        "size_mb": 0.114
+    },
+    {
+        "path": "inference/test_predictions/003748.jpg",
+        "size_mb": 0.257
+    },
+    {
+        "path": "inference/test_predictions/002661.jpg",
+        "size_mb": 0.094
+    },
+    {
+        "path": "inference/test_predictions/000267.jpg",
+        "size_mb": 0.273
+    },
+    {
+        "path": "inference/test_predictions/003634.jpg",
+        "size_mb": 0.124
+    },
+    {
+        "path": "inference/test_predictions/000740.jpg",
+        "size_mb": 0.318
+    },
+    {
+        "path": "inference/test_predictions/002621.jpg",
+        "size_mb": 0.26
+    },
+    {
+        "path": "inference/test_predictions/003050.jpg",
+        "size_mb": 0.442
+    },
+    {
+        "path": "inference/test_predictions/002422.jpg",
+        "size_mb": 0.134
+    },
+    {
+        "path": "inference/test_predictions/003994.jpg",
+        "size_mb": 0.233
+    },
+    {
+        "path": "inference/test_predictions/001163.jpg",
+        "size_mb": 0.264
+    },
+    {
+        "path": "inference/test_predictions/001268.jpg",
+        "size_mb": 0.226
+    },
+    {
+        "path": "inference/test_predictions/001040.jpg",
+        "size_mb": 0.2
+    },
+    {
+        "path": "inference/test_predictions/001963.jpg",
+        "size_mb": 0.162
+    },
+    {
+        "path": "inference/test_predictions/001236.jpg",
+        "size_mb": 0.24
+    },
+    {
+        "path": "inference/test_predictions/002646.jpg",
+        "size_mb": 0.228
+    },
+    {
+        "path": "inference/test_predictions/003399.jpg",
+        "size_mb": 0.164
+    },
+    {
+        "path": "inference/test_predictions/003268.jpg",
+        "size_mb": 0.165
+    },
+    {
+        "path": "inference/test_predictions/000057.jpg",
+        "size_mb": 0.242
+    },
+    {
+        "path": "inference/test_predictions/000905.jpg",
+        "size_mb": 0.129
+    },
+    {
+        "path": "inference/test_predictions/000603.jpg",
+        "size_mb": 0.196
+    },
+    {
+        "path": "inference/test_predictions/000422.jpg",
+        "size_mb": 0.275
+    },
+    {
+        "path": "inference/test_predictions/000152.jpg",
+        "size_mb": 0.25
+    },
+    {
+        "path": "inference/test_predictions/003690.jpg",
+        "size_mb": 0.093
+    },
+    {
+        "path": "inference/test_predictions/001832.jpg",
+        "size_mb": 0.181
+    },
+    {
+        "path": "inference/test_predictions/003027.jpg",
+        "size_mb": 0.266
+    },
+    {
+        "path": "inference/test_predictions/001088.jpg",
+        "size_mb": 0.234
+    },
+    {
+        "path": "inference/test_predictions/003283.jpg",
+        "size_mb": 0.273
+    },
+    {
+        "path": "inference/test_predictions/001517.jpg",
+        "size_mb": 0.118
+    },
+    {
+        "path": "inference/test_predictions/002908.jpg",
+        "size_mb": 0.149
+    },
+    {
+        "path": "inference/test_predictions/000567.jpg",
+        "size_mb": 0.137
+    },
+    {
+        "path": "inference/test_predictions/000638.jpg",
+        "size_mb": 0.163
+    },
+    {
+        "path": "inference/test_predictions/000589.jpg",
+        "size_mb": 0.263
+    },
+    {
+        "path": "inference/test_predictions/001768.jpg",
+        "size_mb": 0.118
+    },
+    {
+        "path": "inference/test_predictions/002991.jpg",
+        "size_mb": 0.162
+    },
+    {
+        "path": "inference/test_predictions/003345.jpg",
+        "size_mb": 0.333
+    },
+    {
+        "path": "inference/test_predictions/003842.jpg",
+        "size_mb": 0.159
+    },
+    {
+        "path": "inference/test_predictions/003477.jpg",
+        "size_mb": 0.217
+    },
+    {
+        "path": "inference/test_predictions/000909.jpg",
+        "size_mb": 0.25
+    },
+    {
+        "path": "inference/test_predictions/001118.jpg",
+        "size_mb": 0.232
+    },
+    {
+        "path": "inference/test_predictions/002483.jpg",
+        "size_mb": 0.225
+    },
+    {
+        "path": "inference/test_predictions/000088.jpg",
+        "size_mb": 0.244
+    },
+    {
+        "path": "inference/test_predictions/000082.jpg",
+        "size_mb": 0.207
+    },
+    {
+        "path": "inference/test_predictions/000965.jpg",
+        "size_mb": 0.231
+    },
+    {
+        "path": "inference/test_predictions/003011.jpg",
+        "size_mb": 0.175
+    },
+    {
+        "path": "inference/test_predictions/003589.jpg",
+        "size_mb": 0.167
+    },
+    {
+        "path": "inference/test_predictions/003454.jpg",
+        "size_mb": 0.193
+    },
+    {
+        "path": "inference/test_predictions/000831.jpg",
+        "size_mb": 0.201
+    },
+    {
+        "path": "inference/test_predictions/003256.jpg",
+        "size_mb": 0.229
+    },
+    {
+        "path": "inference/test_predictions/002393.jpg",
+        "size_mb": 0.217
+    },
+    {
+        "path": "inference/test_predictions/000237.jpg",
+        "size_mb": 0.297
+    },
+    {
+        "path": "inference/test_predictions/labels/003289.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002849.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003994.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001368.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003424.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002163.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002439.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002314.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001665.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000811.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002235.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003649.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002833.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001240.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000488.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003392.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003226.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001979.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002741.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000926.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000831.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000293.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002664.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000340.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002409.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002140.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000422.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000965.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002294.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000106.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000778.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002716.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000740.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003589.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001879.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000387.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000996.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003166.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001820.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000310.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002534.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001843.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002953.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001671.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003175.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001587.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003908.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000023.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003586.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001536.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001098.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003492.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003099.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001259.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001944.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001168.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000822.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003793.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002545.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001910.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001627.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000513.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000988.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003703.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001402.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003062.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000638.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000267.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003301.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002467.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001272.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002072.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002601.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002393.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003533.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002801.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002567.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003541.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002865.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000909.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002728.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000012.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000214.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001130.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002045.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003477.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001088.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001874.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000550.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001196.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002358.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000625.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003823.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003804.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000330.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002646.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001594.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001558.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000969.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002887.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002275.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001751.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002789.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003246.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002661.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000224.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002189.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001502.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002931.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001524.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000320.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002707.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002986.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000889.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001701.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003561.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001926.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002991.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003124.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003782.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002590.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003554.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000796.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000883.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002498.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002169.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003959.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001746.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000233.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001358.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003671.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001768.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002267.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003441.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003233.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002628.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003268.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001396.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000191.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000090.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000415.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000565.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000766.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000348.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001122.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000886.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003626.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001078.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001437.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000687.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003812.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002961.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001939.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003283.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003414.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003338.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001832.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002514.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000914.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003011.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003573.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002922.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002612.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002752.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000787.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000589.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003407.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000015.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001967.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000400.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002138.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000730.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001800.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001024.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000905.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003434.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003829.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000237.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002483.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003327.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003925.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002624.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003768.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000693.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000570.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000175.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001641.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003695.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001517.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003109.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002035.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003887.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003201.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001963.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003993.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000404.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003956.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000033.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003454.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003977.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000204.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003905.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000809.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001709.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003634.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000253.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001267.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000466.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000869.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002422.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003291.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000165.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003542.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001314.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000353.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001993.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000481.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000670.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000297.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003399.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001307.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003156.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000659.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000152.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003418.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002356.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000514.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003082.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002270.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000433.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000603.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001236.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001367.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003296.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001424.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001900.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002621.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002194.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001327.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000424.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002914.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001058.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001885.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001016.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003027.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003140.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003734.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003316.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001617.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002090.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000567.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002006.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001637.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003472.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001118.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001506.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000082.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000696.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001799.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002776.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002694.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002502.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003464.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001268.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002151.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001394.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000044.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002448.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003071.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000288.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003748.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001169.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002056.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002262.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000520.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003743.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001043.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000468.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000834.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001837.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002330.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003831.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002062.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001256.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003683.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001459.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001040.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002252.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002597.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001488.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003612.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000185.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002508.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001071.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002766.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002014.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001163.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001180.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000042.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002803.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003244.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003115.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000749.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001372.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001409.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003935.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002380.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000040.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002307.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003354.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002299.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001809.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003948.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003367.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003039.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003256.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000720.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000541.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002213.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002858.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001282.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002814.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000698.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001720.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003872.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001483.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001899.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002407.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001493.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003879.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003789.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002879.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000088.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002810.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000702.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000128.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002385.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001633.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002125.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003187.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001582.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003690.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003050.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003720.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001917.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002475.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003656.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001039.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003842.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002240.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000950.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001660.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000848.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001610.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003992.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001962.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000452.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000057.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002461.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002898.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001562.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002825.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/001263.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003087.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000648.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000856.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002908.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002326.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/002481.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000611.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/003516.txt",
+        "size_mb": 0.0
+    },
+    {
+        "path": "inference/test_predictions/labels/000875.txt",
+        "size_mb": 0.0
+    }
+]

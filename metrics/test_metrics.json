@@ -1,0 +1,19 @@
+{
+    "model": "YOLO11n",
+    "task": "vehicle_damage_detection",
+    "num_classes": 6,
+    "classes": [
+        "dent",
+        "scratch",
+        "crack",
+        "glass shatter",
+        "lamp broken",
+        "tire flat"
+    ],
+    "test_precision": 0.7135836156181354,
+    "test_recall": 0.6768519725460558,
+    "test_map50": 0.7134608112113766,
+    "test_map50_95": 0.5653137766599077,
+    "image_size": 640,
+    "best_model": "/content/vehicle_damage_detection/artifacts/training/vehicle_damage_yolo/weights/best.pt"
+}

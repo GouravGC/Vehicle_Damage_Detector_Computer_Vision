@@ -1,0 +1,11 @@
+from .configuration import (
+    PROJECT_ROOT,
+    MODEL_PATH,
+    ONNX_MODEL_PATH,
+    CONFIG_PATH,
+    METRICS_PATH,
+    INFERENCE_PATH,
+    IMAGE_SIZE,
+    CONFIDENCE_THRESHOLD,
+    IOU_THRESHOLD,
+)
