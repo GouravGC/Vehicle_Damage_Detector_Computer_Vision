@@ -3,6 +3,8 @@
 # YOLO / Deep Learning
 ultralytics==8.3.203
 
+onnxruntime
+
 # Numerical Computing
 numpy==1.26.4
 
