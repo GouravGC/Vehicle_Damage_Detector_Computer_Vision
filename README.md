@@ -22,7 +22,7 @@
 | 💻 **GitHub Repository** | [Vehicle Damage Detector — GitHub](https://github.com/GouravGC/Vehicle_Damage_Detector_Computer_Vision) |
 | 👤 **LinkedIn** | [Gourav Chhatwani — LinkedIn](https://www.linkedin.com/in/gourav-chhatwani-9a301134a/) |
 
-> **Try the application:** The live Streamlit demo provides an interactive interface for uploading vehicle images and running YOLO11n inference.
+> **Try the application:** Upload vehicle images to the interactive Streamlit application and run YOLO11n inference to detect and localize visible vehicle damage.
 
 ---
 
@@ -30,26 +30,28 @@
 
 Vehicle Damage Detection is an end-to-end computer vision application designed to detect and localize visible vehicle damage from images.
 
-The project uses a trained **YOLO11n object detection model** and integrates the model into a modular inference pipeline with image validation, structured prediction handling, visualization, evaluation metrics, and an interactive Streamlit web application.
+The project uses a trained **YOLO11n object detection model** and integrates it into a modular inference pipeline with image validation, structured prediction handling, visualization, evaluation metrics, and an interactive Streamlit web application.
 
-The goal of this project is not only to train an object detection model, but also to demonstrate how a trained computer vision model can be organized into a maintainable, reusable, and deployable application.
+Beyond model training, the project explores **inference optimization and deployment performance** by comparing PyTorch inference with ONNX Runtime. The optimized inference workflow demonstrates lower measured latency and higher throughput while retaining a computer vision evaluation pipeline.
+
+The goal is to demonstrate how a trained object detection model can be developed, evaluated, optimized, and integrated into a maintainable, reusable application.
 
 ---
 
 ## 🎯 Project Objectives
 
-The project focuses on:
-
-- Detecting visible vehicle damage from images
-- Localizing damage using bounding boxes
-- Classifying different types of vehicle damage
-- Filtering predictions using confidence thresholds
-- Converting raw model predictions into structured results
-- Visualizing detection results
-- Evaluating model performance on test data
-- Building a reusable inference pipeline
-- Providing an interactive Streamlit interface
-- Organizing the application using modular software architecture
+- Detect visible vehicle damage from images.
+- Localize damage using bounding boxes.
+- Classify six types of vehicle damage.
+- Filter predictions using confidence thresholds.
+- Convert raw model predictions into structured results.
+- Visualize detection results.
+- Evaluate model performance on held-out test data.
+- Build a reusable inference pipeline.
+- Compare inference latency and throughput across runtimes.
+- Integrate optimized inference into a deployable application.
+- Provide an interactive Streamlit interface.
+- Organize the application using modular software architecture.
 
 ---
 
@@ -57,7 +59,7 @@ The project focuses on:
 
 The project uses **YOLO11n** for object detection.
 
-YOLO (You Only Look Once) is a one-stage object detection architecture capable of performing object localization and classification within a single inference pipeline.
+YOLO is a one-stage object detection architecture that performs object localization and classification within a single inference pipeline.
 
 ### Model Configuration
 
@@ -69,7 +71,8 @@ YOLO (You Only Look Once) is a one-stage object detection architecture capable o
 | Confidence Threshold | 0.50 |
 | IoU Threshold | 0.50 |
 | Number of Classes | 6 |
-| Framework | Ultralytics / PyTorch |
+| Training / Reference Framework | Ultralytics / PyTorch |
+| Optimized Inference Runtime | ONNX Runtime |
 
 ---
 
@@ -101,9 +104,34 @@ The model was evaluated on a held-out test set.
 
 ### Interpretation
 
-The evaluation demonstrates that the model is capable of detecting multiple types of visible vehicle damage while maintaining a reasonable balance between precision and recall.
+The evaluation measures the model's ability to identify damage categories and localize them using bounding boxes. Precision and recall capture different aspects of detection performance, while mAP evaluates detection quality across confidence and, for mAP@50–95, multiple IoU thresholds.
 
 The evaluation metrics are also exposed through the application's **Model Analytics** page.
+
+---
+
+## ⚡ Inference Optimization & Throughput
+
+A key engineering component of this project is comparing model inference performance between **PyTorch and ONNX Runtime**.
+
+ONNX Runtime provides an alternative execution path for deploying the trained model. The comparison examines two practical performance metrics: latency per image and inference throughput.
+
+### PyTorch vs. ONNX Runtime
+
+| Performance Metric | PyTorch | ONNX Runtime |
+|---|---:|---:|
+| Inference latency per image | 14.31 ms | 10.94 ms |
+| Throughput | 69.87 FPS | 91.41 FPS |
+
+### Measured Performance Improvements
+
+- **23.56% lower inference latency**, reducing the measured time per image from 14.31 ms to 10.94 ms.
+- **30.82% higher throughput**, increasing the measured processing rate from 69.87 FPS to 91.41 FPS.
+- Integrated model inference into a reusable application workflow rather than limiting the project to offline model evaluation.
+
+These results highlight the potential deployment-performance benefits of the ONNX Runtime inference path for this project.
+
+*Benchmark note: These figures represent the previously recorded comparison. Hardware, warm-up procedure, batch size, and timing methodology should be documented alongside the results for a fully reproducible benchmark. Runtime comparisons should use equivalent input conditions and the same measurement methodology.*
 
 ---
 
@@ -113,26 +141,94 @@ The evaluation metrics are also exposed through the application's **Model Analyt
                     Vehicle Image
                          │
                          ▼
-                   Image Upload
+                    Image Upload
                          │
                          ▼
-                  Image Validation
+                   Image Validation
                          │
                          ▼
-                     YOLO11n
-                  Object Detection
+                 Model Inference
+              ┌──────────┴──────────┐
+              │                     │
+              ▼                     ▼
+         PyTorch Path          ONNX Runtime Path
+              │                     │
+              └──────────┬──────────┘
                          │
                          ▼
-                   Bounding Boxes
+                  Raw Predictions
                          │
                          ▼
-                Confidence Filtering
+                 Confidence Filtering
                          │
                          ▼
                 Structured Detections
                          │
                          ▼
-                   Visualization
+                    Bounding Boxes
                          │
                          ▼
-                  Streamlit Output
+                    Visualization
+                         │
+                         ▼
+                 Streamlit Output
+```
+
+---
+
+## 🏗️ Application Design
+
+The application is organized around a reusable inference workflow:
+
+- **Input handling:** Accepts uploaded vehicle images.
+- **Image validation:** Checks input images before inference.
+- **Model inference:** Generates object-detection predictions.
+- **Post-processing:** Applies confidence filtering and structures predictions.
+- **Visualization:** Displays localized damage with bounding boxes.
+- **Evaluation:** Presents model performance metrics.
+- **User interface:** Provides an interactive Streamlit application.
+
+This structure separates inference and result processing from the user interface, making the application easier to maintain and extend.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Computer Vision:** YOLO11n, object detection
+- **Model Framework:** Ultralytics, PyTorch
+- **Optimized Inference:** ONNX Runtime
+- **Programming Language:** Python
+- **Application:** Streamlit
+- **Model Evaluation:** Precision, recall, mAP@50, mAP@50–95
+- **Performance Analysis:** Inference latency, throughput (FPS)
+
+---
+
+## 💡 Key Engineering Takeaways
+
+- Evaluating an object detector requires both model-quality metrics and deployment-performance measurements.
+- Model inference can be integrated into a reusable application pipeline with input validation, post-processing, and visualization.
+- Runtime optimization can improve inference efficiency without replacing the overall application architecture.
+- Measuring latency and throughput helps assess the practical performance of a deployed computer vision model.
+
+---
+
+## 🚀 Live Application
+
+Explore the deployed application:
+
+**[Open Vehicle Damage Detection Demo](https://vehicledamagedetectorcomputervision.streamlit.app/)**
+
+Source code:
+
+**[View the GitHub Repository](https://github.com/GouravGC/Vehicle_Damage_Detector_Computer_Vision)**
+
+---
+
+## 👨‍💻 Author
+
+**Gourav Chhatwani**
+
+- [GitHub](https://github.com/GouravGC)
+- [LinkedIn](https://www.linkedin.com/in/gourav-chhatwani-9a301134a/)
+- [Portfolio](https://gcsportfolio.streamlit.app/)
